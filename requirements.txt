@@ -1,0 +1,8 @@
+# To activate this run
+#
+# pip install -r requirements.txt
+
+plotnine==0.12.3
+mizani==0.9.2
+xlwings==0.27.15
+pypdf2
